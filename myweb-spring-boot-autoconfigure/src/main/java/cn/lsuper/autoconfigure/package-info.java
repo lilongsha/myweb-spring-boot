@@ -1,0 +1,1 @@
+package cn.lsuper.autoconfigure;
